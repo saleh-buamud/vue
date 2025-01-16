@@ -1,7 +1,5 @@
 <template>
   <div class="my-page">
-    <h1>Welcome to My Page</h1>
-    <p>This is a sample page in Vue.js.</p>
     <MyComponent />
     <Counter />
     <MessageDisplay />
